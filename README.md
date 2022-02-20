@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sambu Tsydypov
-- 👀 I’m database developer moved to data engineering and data science
+- 👀 I’m data engineer and data scientist
 - 📫 You can reach me at https://www.linkedin.com/in/sambutsydypov/
 
 <!---
